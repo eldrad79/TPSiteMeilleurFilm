@@ -1,0 +1,53 @@
+body {
+  background-color: orange;
+}
+.page {
+  display: flex;
+}
+.favoris {
+  background-color: gainsboro;
+  padding: 10px;
+  margin-right: 10px;
+  width: 300px;
+  height: 100%;
+  border: 2px solid gray;
+}
+.catalogue {
+  border: 2px solid gray;
+  padding: 10px;
+  height: 550px;
+  width: 100%;
+}
+.affiche {
+  background-color: gainsboro;
+  margin-top: 10px;
+  border: 2px solid gray;
+  height: 320px;
+}
+.ffI {
+  margin-top: 10px;
+  height: 250px;
+  border: 2px solid gray;
+}
+.ffII {
+  margin-top: 10px;
+  height: 250px;
+  border: 2px solid gray;
+}
+.detail {
+  background-color: gainsboro;
+  margin-top: 10px;
+  border: 2px solid gray;
+  height: 150px;
+}
+h1 {
+  margin: 10px;
+  color: white;
+}
+h3 {
+  height: 22px;
+  margin: 0px;
+}
+label {
+  color: white;
+}
